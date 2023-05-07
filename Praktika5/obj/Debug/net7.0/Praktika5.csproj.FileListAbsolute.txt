@@ -1,0 +1,15 @@
+K:\Praktika5\bin\Debug\net7.0\Praktika5.exe
+K:\Praktika5\bin\Debug\net7.0\Praktika5.deps.json
+K:\Praktika5\bin\Debug\net7.0\Praktika5.runtimeconfig.json
+K:\Praktika5\bin\Debug\net7.0\Praktika5.dll
+K:\Praktika5\bin\Debug\net7.0\Praktika5.pdb
+K:\Praktika5\obj\Debug\net7.0\Praktika5.csproj.AssemblyReference.cache
+K:\Praktika5\obj\Debug\net7.0\Praktika5.GeneratedMSBuildEditorConfig.editorconfig
+K:\Praktika5\obj\Debug\net7.0\Praktika5.AssemblyInfoInputs.cache
+K:\Praktika5\obj\Debug\net7.0\Praktika5.AssemblyInfo.cs
+K:\Praktika5\obj\Debug\net7.0\Praktika5.csproj.CoreCompileInputs.cache
+K:\Praktika5\obj\Debug\net7.0\Praktika5.dll
+K:\Praktika5\obj\Debug\net7.0\refint\Praktika5.dll
+K:\Praktika5\obj\Debug\net7.0\Praktika5.pdb
+K:\Praktika5\obj\Debug\net7.0\Praktika5.genruntimeconfig.cache
+K:\Praktika5\obj\Debug\net7.0\ref\Praktika5.dll
